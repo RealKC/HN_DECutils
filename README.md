@@ -19,7 +19,7 @@ Documentation for declib can be found under docs/declib in Markdown format.
 
 Hacknet is a fun hacking simulator, I recommend it. It has a nice extension(custom campaigns) community and a good DLC.
 
-You can get it on the [Steam store](https://store.steampowered.com/app/365450/Hacknet), [GoG](https://www.gog.com/game/hacknet), the [Humble Store](https://www.gog.com/game/hacknet), the Discord store and [Origin](https://www.origin.com/irl/en-us/store/hacknet/hacknet). Its official website can be found at [hacknet-os.com](https://hacknet-os.com).
+You can get it on the [Steam store](https://store.steampowered.com/app/365450/Hacknet), [GoG](https://www.gog.com/game/hacknet), the [Humble Store](https://www.gog.com/game/hacknet), the Discord store and [Origin](https://www.origin.com/irl/en-us/store/hacknet/hacknet). Its official website can be found at [hacknet-os.com](http://hacknet-os.com).
 
 # Legal
 
