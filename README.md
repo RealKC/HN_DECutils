@@ -6,7 +6,7 @@ Note that this repo turned into an exercise in properly learning CMake, and prop
 
 # Can I use this?
 
-Sure you can, but is that a good idea? Don't worry, I'll answer the question for you, it is __**not**__ a good idea as the algorithm is very weak.(Sorry Matt!)
+Sure you can, but is that a good idea? Don't worry, I'll answer the question for you, it is **not** a good idea as the algorithm is very weak.(Sorry Matt!)
 
 # Tell me more!
 
