@@ -1,0 +1,7 @@
+# Build related stuff
+*.exe
+*.o
+/build*
+
+# A lot of VS Code settings are pretty specific to me, so
+.vscode
