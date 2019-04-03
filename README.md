@@ -25,6 +25,4 @@ You can get it on the [Steam store](https://store.steampowered.com/app/365450/Ha
 
 This project is licensed under the MIT License, the license file can be found [here](LICENSE).
 
-CLI11 is licensed under 3-clause BSD, text can be found [here](thirdparty/CLI11/CLI11_LICENSE)(the license is included verbatim).
-
 I do not own Hacknet.

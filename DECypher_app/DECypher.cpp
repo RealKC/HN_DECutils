@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-#include <CLI/CLI11.hpp>
+#include <CLI/CLI.hpp>
 #include <dec.hpp>
 
 #include "file_io.hpp"

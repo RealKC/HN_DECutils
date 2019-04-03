@@ -2,6 +2,7 @@
 *.exe
 *.o
 /build*
+/*debug
 
 # A lot of VS Code settings are pretty specific to me, so
 .vscode
